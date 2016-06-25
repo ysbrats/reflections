@@ -1,0 +1,8 @@
+
+
+
+2. How is the staging aread different from the working directory and the repository ? what value do you thing it offers ?
+
+Staging aread differ from working directory becuase its the intermediate stage where files are added in bulk and waiting to be added to repository. Their next step is addition to repository.
+
+staging area can take bulk or multiple files and keep them in intermediate state. Then at once they are added to repository with one single commit.
